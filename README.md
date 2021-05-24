@@ -6,7 +6,7 @@ To run the app:
 
 * Download or clone this repo
 * Open it in cmd 
-* Run ``-m venv env`` to create virtual environment for python
+* Run ``python -m venv env`` to create virtual environment for python
 * Navigate to: ``cd env`` -> ``cd scripts`` -> ``activate`` to activatate “activate.bat” file (mac: cd env -> cd bin -> activate)
 * Navate back to initial folder ``cd ..`` -> ``cd ..``
 * Run ``py -m pip install sanic databases[sqlite] spacy``
